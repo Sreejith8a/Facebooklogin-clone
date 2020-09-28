@@ -1,0 +1,175 @@
+.header{
+    background: #3b5998;
+    width:100%;
+    height:85px
+}
+
+.logo{
+    width:50%;
+    padding-top:32px;
+    float:left
+}
+.login{
+    width:50%;
+    float:left;
+    padding-top:10px
+}
+
+.login-label{
+   color:white;
+   font-size:11px;
+   font-family: Arial, Helvetica Neue,Helvetica,sans-serif;
+}
+
+.login-controls{
+    margin-left:115px
+}
+
+.logotext{
+    color:whitesmoke;
+    font-size:32px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family: Arial, Helvetica Neue,Helvetica,sans-serif;
+    margin-left:170px
+}
+
+.forgotten{
+    font-size: 11px;
+    text-decoration:none;
+    color:#9cb4dB;
+}
+
+.forgotten:hover
+{
+    color:white
+}
+
+.button-style{
+    background-color:#4267b2;
+    color:white;
+    border-color:#29487d;
+    border-block-end-style: unset;
+    border-block-start-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    height:20px;
+    cursor:pointer
+}
+
+.button-style:hover{
+
+    background:#2331af
+
+}
+
+.main-body{
+    background: linear-gradient(white,rgb(157, 186, 212));
+    width: 100%;
+    height:750px
+}
+
+.left-section{
+    width:50%;
+    float:left;
+    padding-left:150px;
+    padding-top: 50px;
+}
+
+.font{
+    font-size: 22px;
+}
+.image{
+    width: 500px;
+    height:250px
+}
+
+.right-section{
+    width:39%;
+    float:left;
+    padding-top:30px
+    
+}
+
+.textfield{
+    border-radius: 3px;
+    border-left-style: ridge;
+    border-top-style: ridge;
+    border-right-style: ridge;
+    border-bottom-style: ridge;
+    border-color: white;
+    height: 24px;
+}
+
+.textfield2{
+    margin-top: 5px;
+    border-radius: 3px;
+    border-left-style: ridge;
+    border-top-style: ridge;
+    border-right-style: ridge;
+    border-bottom-style: ridge;
+    border-color: white;
+    height: 24px;
+    width:325px
+}
+
+.DOBfont{
+
+    font-size: 13px;
+    color:rgb(100, 110, 128);
+    margin-top:15px;
+    margin-left:5px
+}
+.space{
+    margin-left:5px;
+    border: solid 1px;
+    border-color:white;
+    width:60px
+}
+.borderspace{
+    margin-left:5px;
+    border: solid 1px;
+    border-color:white;
+    width:60px   
+}
+.border{
+    border: solid 1px;
+    border-color:white;
+    width:60px
+}
+
+.Gender{
+    font-size: 14px;
+}
+
+.terms{
+    margin-top: 20px;
+    font-size: 10px;
+    color:rgb(100, 110, 128);
+}
+
+.SignUP{
+    margin-top:12px;
+    background-color:rgb(29, 153, 29);
+    border-radius: 4px;
+    border-color: rgb(29, 150, 15);
+    width: 158px;
+    height: 33px;
+    font-size: 15px;
+    color: white;
+}
+
+.footertext{
+    margin-top: 40px;
+    font-size: 13px;
+    color: rgb(69, 75, 87);
+}
+
+.footerlink{
+    text-decoration: none;
+}
+
+body{
+    margin:0px;
+    font-family: Arial, Helvetica Neue,Helvetica,sans-serif
+}
